@@ -1,6 +1,6 @@
 # Домашнее задание к занятию.
 
-![CI](https://github.com/Nikan152435/Task-work-environment-browser/actions/workflows/web/badge.svg)
+![CI](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/web.yml/badge.svg)
 
 "1. Рабочее окружение"
 Важно: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
