@@ -1,1 +1,1 @@
-[![CI](https://github.com/Nikan152435/Task-Continuous-Deployment-browser/actions/workflows/web.yml/badge.svg)](https://github.com/Nikan152435/Task-Continuous-Deployment-browser/actions/workflows/web.yml)
+![CI](https://github.com/Nikan152435/Task-Continuous-Deployment-browser/actions/workflows/web.yml/badge.svg)
