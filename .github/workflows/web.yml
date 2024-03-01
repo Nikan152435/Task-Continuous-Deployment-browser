@@ -20,13 +20,15 @@ jobs:
 
     - name: Install dependencies
       run: npm install
+      working-directory: env  # Указываем рабочую директорию
 
     - name: Build
       run: npm run build
+      working-directory: env  # Указываем рабочую директорию
 
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@4.1.5
       with:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN}}
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         BRANCH: gh-pages
-        FOLDER: dist
+        FOLDER: env/dist  # Указываем рабочую директорию

@@ -1,0 +1,11 @@
+{
+  "name": "task-continuous-deployment-browser",
+  "version": "1.0.0",
+  "description": "![CI](https://github.com/Nikan152435/Task-Continuous-Deployment-browser/actions/workflows/web.yml/badge.svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
